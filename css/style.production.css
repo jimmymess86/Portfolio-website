@@ -141,6 +141,11 @@ button:hover, button:focus {
   border-radius: 50%;
 }
 
+.mytable {
+  margin: 0 auto;
+  width: 60%;
+}
+
 .about {
   max-width: 700px;
   margin: 0 auto;
