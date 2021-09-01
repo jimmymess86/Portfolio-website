@@ -18,11 +18,13 @@
 h1 {
   font-size: 30px;
   font-weight: 700;
+  padding: 10px;
 }
 
 h2 {
   font-size: 24px;
   font-weight: 400;
+  padding: 10px;
 }
 
 h3 {
@@ -184,6 +186,7 @@ button:hover, button:focus {
   -ms-grid-columns: 1fr 20px 1fr 20px 1fr;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
+  padding: 10px;
 }
 
 .grid__item {
